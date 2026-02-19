@@ -2,7 +2,7 @@ Dan Bing (Taiwanese Breakfast Egg Crepe)
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+Dan Bing is a classic Taiwanese breakfast street food: a soft, chewy scallion crepe rolled up with egg and savory sauce. It’s beloved for its contrasting textures—tender layers with crispy edges—and its endlessly customizable fillings.
 
 ## Stats
 
