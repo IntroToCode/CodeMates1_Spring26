@@ -1,46 +1,26 @@
-# Okonomiyaki (Japanese Savory Cabbage Pancakes)
+# Replace with recipe name
 
 ## Description
 
-Okonomiyaki is a savory Japanese pancake packed with cabbage and mixed with a simple batter, then topped with a sweet-savory sauce and creamy drizzle. The name loosely means “grilled as you like it,” reflecting its customizable fillings and regional variations across Japan.
+<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
 
 ## Stats
 
-| Field      | Info                                                  |
-| ---------- | ----------------------------------------------------- |
-| Prep Time  | 20 minutes                                            |
-| Cook Time  | 20 minutes                                            |
-| Total Time | 40 minutes                                            |
-| Servings   | 4 pancakes                                            |
-| Difficulty | Medium                                                |
-| Tags       | Japanese, vegetarian, savory, weeknight, comfort food |
+| Field | Info |
+|-------|------|
+| Prep Time | e.g. 15 minutes |
+| Cook Time | e.g. 30 minutes |
+| Total Time | e.g. 45 minutes |
+| Servings | e.g. 4 |
+| Difficulty | Easy / Medium / Hard |
+| Tags | e.g. vegetarian, quick, make-ahead, dessert |
 
+<!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-Okonomiyaki Sauce (or use store-bought)
-- [ ]  1/4 cup ketchup
-- [ ]  1 tbsp Worcestershire sauce
-- [ ]  1 tbsp tamari or soy sauce
-- [ ]  1 tbsp maple syrup
+- [ ] add ingredient here
       
-Pancake Batter
-- [ ] 3/4 cup all-purpose flour
-- [ ]  1/2 tsp baking powder
-- [ ]  1/2 tsp sea salt
-- [ ]  2 large eggs
-- [ ]  1/3 cup water
-- [ ]  3 cups finely shredded green cabbage
-- [ ]  3 scallions, chopped
-
-For Cooking
-- [ ]  Extra-virgin olive oil or neutral oil, for the pan
-
-Toppings (optional but traditional)
-- [ ]  Japanese mayonnaise
-- [ ]  Nori flakes
-- [ ]  Pickled ginger
-- [ ]  Sesame seeds
-- [ ]  Microgreens
+<!-- List every ingredient -->
 
 ### Steps for preparation:
 
