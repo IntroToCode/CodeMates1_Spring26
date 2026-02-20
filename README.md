@@ -28,9 +28,3 @@
 2. Step two.
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
-
-### Notes:
-
-<!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
-
-### Author(s):
