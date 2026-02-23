@@ -1,24 +1,32 @@
-# Replace with recipe name
+# Sheet Pan Nachos Supreme
 
 ## Description
 
-<!-- 1-2 sentences about the dish. Where does it come from? What makes it special? -->
+A colorful, communal Tex-Mex feast designed for maximum sharing and minimal cleanup. The secret is the "double-layer" technique, ensuring no chip is left behind without a coating of melted cheese and savory toppings.
 
 ## Stats
 
 | Field | Info |
 |-------|------|
-| Prep Time | e.g. 15 minutes |
-| Cook Time | e.g. 30 minutes |
-| Total Time | e.g. 45 minutes |
-| Servings | e.g. 4 |
-| Difficulty | Easy / Medium / Hard |
-| Tags | e.g. vegetarian, quick, make-ahead, dessert |
+| Prep Time | 15 minutes |
+| Cook Time | 10 minutes |
+| Total Time | 25 minutes |
+| Servings | 4-6 |
+| Difficulty | Easy |
+| Tags | Group-friendly, Tex-Mex, Quick, One-pan |
 
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] add ingredient here
+- [ ] 1 large bag (approx. 400g) Sturdy tortilla chips
+- [ ] 2 cups Shredded Mexican cheese blend (or sharp cheddar)
+- [ ] 1 lb Ground beef or shredded rotisserie chicken (cooked and seasoned)
+- [ ] 1 can (15 oz) Black beans, drained and rinsed
+- [ ] 1/2 cup Pickled jalapeños
+- [ ] 1/2 Red onion, finely diced
+- [ ] 1/2 cup Fresh cilantro, chopped
+- [ ] 1 large Avocado, diced (or guacamole)
+- [ ] 1/2 cup Sour cream or Greek yogurt
       
 <!-- List every ingredient -->
 
