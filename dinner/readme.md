@@ -42,6 +42,10 @@ The Garnish: Drizzle the sour cream over the top (pro tip: thin it with a teaspo
 
 ### Notes:
 
+- The Chip Choice: Avoid thin "restaurant style" chips; they'll turn into wet paper under the weight of the toppings. Go for "thick-cut" or "kettle-cooked" varieties.
+- The Protein: If using ground beef, brown it in a skillet beforehand with a packet of taco seasoning or a mix of cumin, chili powder, and garlic salt.
+- Vegetarian Option: Simply double the beans (black and pinto) and add roasted corn for extra heartiness.
+
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
