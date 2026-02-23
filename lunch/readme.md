@@ -29,3 +29,13 @@
 3. Step three.
 <!-- Each step should be a complete action. Assume the reader has never made this before. -->
 
+### Notes:
+- [ ] add notes here
+      
+<!-- List every notes necessary -->
+
+### Author:
+- [ ] add author's name here
+      
+<!-- add authour's name to give them credit that satisfies our hunger -->
+
