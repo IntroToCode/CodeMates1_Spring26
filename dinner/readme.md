@@ -32,10 +32,13 @@ A colorful, communal Tex-Mex feast designed for maximum sharing and minimal clea
 
 ### Steps for preparation:
 
-1. Step one.
-2. Step two.
-3. Step three.
-<!-- Each step should be a complete action. Assume the reader has never made this before. -->
+1. Preheat and Prep: Preheat your oven to 200°C. Line a large rimmed baking sheet with parchment paper or aluminum foil for easy cleanup
+2. The First Layer: Spread half of the tortilla chips in an even layer across the pan. Sprinkle with half of the meat, half of the beans, and a generous layer of cheese
+3. The Second Layer: Repeat the process with the remaining chips, meat, beans, and cheese. This ensures the bottom chips aren't bare!
+4. Bake: Place the tray in the oven for 8–10 minutes, or until the cheese is bubbling and starting to turn golden brown at the edges
+5. Add Freshness: Remove from the oven and immediately top with the red onion, pickled jalapeños, and diced avocado
+The Garnish: Drizzle the sour cream over the top (pro tip: thin it with a teaspoon of water to make it "drizzle-able") and scatter the fresh cilantro over everything. Serve immediately right off the pan
+
 
 ### Notes:
 
