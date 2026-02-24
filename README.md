@@ -1,8 +1,8 @@
 # Recipe Index
 
 - Breakfast: Dan Bing (Taiwanese Breakfast Egg Crepe)
-- Lunch: Sheet Pan Nachos Supreme
-- Dinner: 
+- Lunch: Okonomiyaki
+- Dinner: Sheet Pan Nachos Supreme 
 
 _Notes_
 __
