@@ -18,15 +18,15 @@ A colorful, communal Tex-Mex feast designed for maximum sharing and minimal clea
 <!-- Note the fields in the markdown table -->
 
 ### Ingredients:
-- [ ] 1 large bag (approx. 400g) Sturdy tortilla chips
-- [ ] 2 cups Shredded Mexican cheese blend (or sharp cheddar)
-- [ ] 1 lb Ground beef or shredded rotisserie chicken (cooked and seasoned)
-- [ ] 1 can (15 oz) Black beans, drained and rinsed
-- [ ] 1/2 cup Pickled jalapeños
-- [ ] 1/2 Red onion, finely diced
-- [ ] 1/2 cup Fresh cilantro, chopped
-- [ ] 1 large Avocado, diced (or guacamole)
-- [ ] 1/2 cup Sour cream or Greek yogurt
+- [ ] 2 large bag (approx. 800g) Sturdy tortilla chips
+- [ ] 4 cups Shredded Mexican cheese blend (or sharp cheddar)
+- [ ] 2 lb Ground beef or shredded rotisserie chicken (cooked and seasoned)
+- [ ] 2 can (30 oz) Black beans, drained and rinsed
+- [ ] 1 cup Pickled jalapeños
+- [ ] 1 Red onion, finely diced
+- [ ] 1 cup Fresh cilantro, chopped
+- [ ] 2 large Avocado, diced (or guacamole)
+- [ ] 1 cup Sour cream or Greek yogurt
       
 <!-- List every ingredient -->
 
