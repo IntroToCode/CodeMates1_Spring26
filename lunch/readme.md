@@ -6,7 +6,7 @@ Okonomiyaki is a savory Japanese pancake packed with cabbage and mixed with a si
 
 ## Stats
 
-Field | Info -- | -- Prep Time | 20 minutes Cook Time | 20 minutes Total Time | 40 minutes Servings | 4 pancakes Difficulty | Medium Tags | Japanese, vegetarian, savory, weeknight, comfort food
+Field | Info -- | -- Prep Time | 20 minutes Cook Time | 20 minutes Total Time | 40 minutes Servings | 4 pancakes Difficulty | Medium Tags | Japanese, vegetarian, savory, weeknight, comfort food | Spice level (out of 3): 🌶️
 
 ### Ingredients:
 
@@ -55,7 +55,6 @@ For Cooking
 - You can customize the filling with shredded carrots, corn, or sautéed mushrooms.
 - Traditional versions often include dashi for deeper umami flavor.
 - Cook over medium heat to ensure the center cooks through without burning the outside.
-- Spice level (out of 3): 🌶️
 
 ### Author(s):
 - Adapted from Love & Lemons (Jeanine Donofrio)
