@@ -55,6 +55,7 @@ For Cooking
 - You can customize the filling with shredded carrots, corn, or sautéed mushrooms.
 - Traditional versions often include dashi for deeper umami flavor.
 - Cook over medium heat to ensure the center cooks through without burning the outside.
+- Spice level (out of 3): 🌶️
 
 ### Author(s):
 - Adapted from Love & Lemons (Jeanine Donofrio)
