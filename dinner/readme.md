@@ -14,7 +14,7 @@ A colorful, communal Tex-Mex feast designed for maximum sharing and minimal clea
 | Servings | 4-6 |
 | Difficulty | Easy |
 | Tags | Group-friendly, Tex-Mex, Quick, One-pan |
-| Spicy level: 🌶️🌶️ |
+| Spicy level:|🌶️🌶️
 
 <!-- Note the fields in the markdown table -->
 
