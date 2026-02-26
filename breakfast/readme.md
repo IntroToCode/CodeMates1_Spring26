@@ -6,7 +6,7 @@ Dan Bing is a classic Taiwanese breakfast street food: a soft, chewy scallion cr
 
 ## Stats
 
-Field | Info -- | -- Prep Time | 15 minutes Cook Time | 15–20 minutes Total Time | 30–35 minutes Servings | 4 crepes Difficulty | Medium Tags | Taiwanese, breakfast, street food, savory, vegetarian
+Field | Info -- | -- Prep Time | 15 minutes Cook Time | 15–20 minutes Total Time | 30–35 minutes Servings | 4 crepes Difficulty | Medium Tags | Taiwanese, breakfast, street food, savory, vegetarian | Spice level (out of 3): 🌶️
 
 ### Ingredients:
 
@@ -55,4 +55,8 @@ Optional Fillings
 - You can make the batter ahead of time and refrigerate it for up to 1 day; stir before using.
 
 ### Author(s):
-Original recipe inspiration from Diversivore (Evan Sung)
+- Original recipe inspiration from Diversivore (Evan Sung)
+- Ade Hidayat
+- Kimberly Saiyo
+- Joaquin Burmester
+- Tianie Scott

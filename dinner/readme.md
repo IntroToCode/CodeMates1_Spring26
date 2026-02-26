@@ -50,4 +50,7 @@ The Garnish: Drizzle the sour cream over the top (pro tip: thin it with a teaspo
 <!-- Optional: substitutions, tips, variations, or personal notes about the recipe. -->
 
 ### Author(s):
-Gemini
+- Ade Hidayat
+- Kimberly Saiyo
+- Joaquin Burmester
+- Tianie Scott
